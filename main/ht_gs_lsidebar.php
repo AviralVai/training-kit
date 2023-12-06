@@ -41,7 +41,7 @@
           <a>
             <div class="pull-left menu"  option="file-manager">
               <i class="zmdi zmdi-file-plus mr-20"></i>
-              <span class="right-nav-text">File Manager</span>
+              <span class="right-nav-text">File</span>
             </div>
             <div class="clearfix"></div>
           </a>
